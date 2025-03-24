@@ -1,0 +1,16 @@
+[33mf3c2852[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Integrate axios and redux-thunk, update components
+[33m8979555[m Fix products.json loading and update paths
+[33medb8d9e[m Update image placeholder paths
+[33m54eaf32[m Fix image paths
+[33m97b8ec2[m Fix image paths and add public directory
+[33m65a0ec9[m Fix products.json path and add public directory
+[33mf0a969f[m Configure deployment to docs folder
+[33m33340db[m Fix dependencies installation
+[33m1f60269[m Fix build configuration and paths
+[33mb65619d[m Fix resource paths and MIME types
+[33m56c5867[m Fix MIME types configuration
+[33mb2dd576[m Configure GitHub Pages deployment
+[33mc507558[m Fix JSX configuration and remove duplicate files
+[33mc1cc5ce[m Fix build configuration
+[33m27f4cc5[m Fix Pages configuration okok
+[33mf531001[m Initial commit
